@@ -1,0 +1,1 @@
+from Fees import apply_fee #applys the fee to the amount
